@@ -49,7 +49,7 @@ BinarySearchTreeDemo/
 1. **Clone this repository:**
 
    ```bash
-   git clone (https://github.com/minermikey/Binary-Search-Trees.git)
+   git clone [(https://github.com/minermikey/Binary-Search-Trees.git)]
    cd BinarySearchTreeDemo
    ```
 
