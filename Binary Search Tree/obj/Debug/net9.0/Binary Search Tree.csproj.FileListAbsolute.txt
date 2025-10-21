@@ -1,0 +1,14 @@
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/bin/Debug/net9.0/Binary Search Tree
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/bin/Debug/net9.0/Binary Search Tree.deps.json
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/bin/Debug/net9.0/Binary Search Tree.runtimeconfig.json
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/bin/Debug/net9.0/Binary Search Tree.dll
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/bin/Debug/net9.0/Binary Search Tree.pdb
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.AssemblyInfoInputs.cache
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.AssemblyInfo.cs
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.csproj.CoreCompileInputs.cache
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.dll
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/refint/Binary Search Tree.dll
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.pdb
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/Binary Search Tree.genruntimeconfig.cache
+/Users/michaelsingh/PROG 7312 EB/Binary Search Tree/obj/Debug/net9.0/ref/Binary Search Tree.dll
