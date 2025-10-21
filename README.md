@@ -87,17 +87,3 @@ This project was built as a learning exercise to understand:
 * Tree data structures
 * Generic classes (`where T : IComparable<T>`)
 * Console applications in C#
-
----
-
-## Author
-
-**Your Name**
-📧 Email: [your.email@example.com](mailto:your.email@example.com)
-💻 GitHub: [@your-username](https://github.com/your-username)
-
----
-
-## License
-
-This project is licensed under the **MIT License** — feel free to use and modify it.
