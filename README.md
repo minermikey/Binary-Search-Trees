@@ -1,5 +1,3 @@
-# Binary-Search-Trees
-
 # Binary Search Tree in C#
 
 A simple console-based **Binary Search Tree (BST)** implementation written in **C#**.
@@ -51,7 +49,7 @@ BinarySearchTreeDemo/
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/<your-username>/BinarySearchTreeDemo.git
+   git clone (https://github.com/minermikey/Binary-Search-Trees.git)
    cd BinarySearchTreeDemo
    ```
 
